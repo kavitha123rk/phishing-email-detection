@@ -104,18 +104,3 @@ Phishing emails can be identified by carefully checking links, sender details, a
 
 **Kavitha K**
 
----
-
-## ⭐ Support
-
-If you find this project useful, consider giving it a ⭐ on GitHub!
-
----
-
-If you want:
-✔ I can add **badges + images (premium GitHub look)**
-✔ Or create a **LinkedIn post for this project**
-✔ Or help you with **next internship task**
-
-Just tell 👍
-
